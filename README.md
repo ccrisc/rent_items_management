@@ -137,22 +137,24 @@ To get a local copy up and running follow be ture to have the following steps ch
   ```
 
 ### Installation
-If you using php storm: http://www.php.cn/faq/738624.html
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/ccrisc/rent_items_management.git
    ```
-3. Install NPM packages
+2. Enter your DB credentials in `config.php`
+    ```php
+   define('DB_NAME', '*****');
+   define('DB_USER', '*****');
+   define('DB_PASSWORD', '*****');
+   define('DB_HOST', '*****:3306');;
+   ```
+3. Create DB tables executing ....
+4. Run your local PHP server (if you are using PHPStorm you can set up your server following <a href="http://www.php.cn/faq/738624.html">these instructions</a>)
    ```sh
-   npm install
+   php -S localhost:8000
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+5. Visit http://localhost:8000
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
