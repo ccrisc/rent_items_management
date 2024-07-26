@@ -14,7 +14,7 @@
   <!-- Additional CSS -->
   <link rel="stylesheet" href="css/main.css" >
 
-  <title>QBEB</title>
+  <title>MY SHOP</title>
 
 </head>
 <body>

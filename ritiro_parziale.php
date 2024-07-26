@@ -24,7 +24,7 @@ include_once("config.php");
   <!-- Additional CSS -->
   <link rel="stylesheet" href="css/main.css" >
 
-  <title>QBEB - Dettaglio ordine</title>
+  <title>MY SHOP - Dettaglio ordine</title>
 </head>
 <body>
 <script type="text/javascript" src="js/jquery.tabledit.js"></script>

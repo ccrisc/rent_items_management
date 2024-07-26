@@ -15,7 +15,7 @@ include_once('config.php');
 <!-- Additional CSS -->
 <link rel="stylesheet" href="css/main.css" >
 
-<title>QBEB - Controllo dotazioni</title>
+<title>MY SHOP - Controllo dotazioni</title>
          <style>
             table {
             border-collapse: collapse;
@@ -76,7 +76,7 @@ include_once('config.php');
       }
 
       try {
-         $con= new PDO('mysql:host=192.168.1.100:3306;dbname=qbeb', "root", "root");
+         $con= new PDO('mysql:host=127.0.0.1:3306;dbname=rent_management', "root", "root");
          $con->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
          if(!empty($family)) {
