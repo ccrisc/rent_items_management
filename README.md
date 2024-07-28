@@ -99,7 +99,7 @@ To get a local copy up and running follow be ture to have the following steps ch
    define('DB_PASSWORD', '*****');
    define('DB_HOST', '*****:3306');;
    ```
-3. Create DB tables executing ....
+3. You can create schema and tables by executing the SQL from the `demo_dump` folder fo hetting started
 4. Run your local PHP server (if you are using PHPStorm you can set up your server following <a href="http://www.php.cn/faq/738624.html">these instructions</a>)
    ```sh
    php -S localhost:8000
