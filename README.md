@@ -55,8 +55,6 @@ Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ### Built With
 <p align="left"> 
 
@@ -68,7 +66,6 @@ Use the `BLANK_README.md` to get started.
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -99,7 +96,7 @@ To get a local copy up and running follow be ture to have the following steps ch
    define('DB_PASSWORD', '*****');
    define('DB_HOST', '*****:3306');;
    ```
-3. You can create schema and tables by executing the SQL from the `demo_dump` folder fo hetting started
+3. You can create schema and tables by executing the SQL from the `demo_dump` folder fo getting started
 4. Run your local PHP server (if you are using PHPStorm you can set up your server following <a href="http://www.php.cn/faq/738624.html">these instructions</a>)
    ```sh
    php -S localhost:8000
@@ -107,7 +104,6 @@ To get a local copy up and running follow be ture to have the following steps ch
 5. Visit http://localhost:8000
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
@@ -118,7 +114,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -142,7 +137,7 @@ Don't forget to give the project a star!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GNU GENERAL PUBLIC License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
