@@ -1,9 +1,5 @@
 <div align="center">
   <h1 align="center">Rent Management Interface</h1>
-
-  <p align="left">
-    This is a web interface for rent management of items in a shop
-  </p>
 </div>
 
 
@@ -40,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This app is intended for the management of rent items. This web app allows the easy management of items and customers. For each customer you can manage multiple orders by specifying the rent end date. Doing so you have updates about order status.
+This web app is designed to streamline the management of rental items. It enables efficient handling of both items and customers. You can manage multiple orders for each customer by specifying the rental end date, which provides you with real-time updates on the order status.
 
 <img width="1792" alt="Screenshot 2024-07-29 alle 08 57 09" src="https://github.com/user-attachments/assets/0c71dc2f-f8ae-45ec-be30-a34dc16d4987">
 
