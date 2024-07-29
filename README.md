@@ -122,6 +122,8 @@ To get a local copy up and running follow be ture to have the following steps ch
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
+If you think you found a bug in rails_magazzino, you can [submit an issue](https://github.com/ccrisc/rent_items_management/issues/new/choose).
+
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star!
 
