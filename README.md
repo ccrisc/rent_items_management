@@ -42,6 +42,8 @@
 
 This app is intended for the management of rent items. This web app allows the easy management of items and customers. For each customer you can manage multiple orders by specifying the rent end date. Doing so you have updates about order status.
 
+<img width="1792" alt="Screenshot 2024-07-29 alle 08 57 09" src="https://github.com/user-attachments/assets/0c71dc2f-f8ae-45ec-be30-a34dc16d4987">
+
 Main functionalities:
 * CRUD Operations
 * Interactivity with AJAX
@@ -104,9 +106,13 @@ To get a local copy up and running follow be ture to have the following steps ch
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<img width="1269" alt="Screenshot 2024-07-29 alle 09 10 57" src="https://github.com/user-attachments/assets/fd5ec400-e58d-4363-803b-36ec39cab27c">
+<img width="1307" alt="Screenshot 2024-07-29 alle 09 10 47" src="https://github.com/user-attachments/assets/06ad8e26-e67d-4d70-b74b-145438a38f42">
+<img width="1792" alt="Screenshot 2024-07-29 alle 09 10 22" src="https://github.com/user-attachments/assets/45beedfc-7a50-4ca8-90d8-d82d5e8e8878">
+<img width="1225" alt="Screenshot 2024-07-29 alle 09 19 45" src="https://github.com/user-attachments/assets/382164b3-f1e8-4158-aabc-5123ab4e1451">
+<img width="1260" alt="Screenshot 2024-07-29 alle 09 13 28" src="https://github.com/user-attachments/assets/d1560cce-18b0-43a5-b740-03f0dc880006">
+<img width="1241" alt="Screenshot 2024-07-29 alle 09 13 21" src="https://github.com/user-attachments/assets/5504b9ce-e88f-46ff-a991-2144adbb8c13">
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
